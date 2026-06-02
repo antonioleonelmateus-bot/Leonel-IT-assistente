@@ -12,3 +12,6 @@ Assistente de IA para análise de dados com integração ao Facebook Graph API.
 ```bash
 pip install -r requirements.txt
 python facebook_connector.py
+
+📞 Suporte
+Desenvolvido com ❤️ por Leonel Mateus
